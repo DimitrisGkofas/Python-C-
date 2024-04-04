@@ -1,5 +1,3 @@
-#include <iostream>
-
 extern "C" {
     // Define the dimensions of the screen
     void floodFill(int **myScreen, int M, int x, int y, int currColor, int newColor, int max_depth) 
